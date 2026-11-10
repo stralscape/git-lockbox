@@ -1,6 +1,6 @@
 {
   "name": "git-lockbox",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Encrypt a local source repository with GPG and push it as a new commit to a remote destination repository for deployment.",
   "keywords": [
     "git",
