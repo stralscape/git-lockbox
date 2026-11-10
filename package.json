@@ -1,0 +1,41 @@
+{
+  "name": "git-lockbox",
+  "version": "1.0.0",
+  "description": "Encrypt a local source repository with GPG and push it as a new commit to a remote destination repository for deployment.",
+  "keywords": [
+    "git",
+    "deploy",
+    "deployment",
+    "gpg",
+    "encryption",
+    "encrypted",
+    "archive",
+    "github",
+    "ci",
+    "devops",
+    "cli",
+    "zero-dependency"
+  ],
+  "author": "Stralscape",
+  "license": "MIT",
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stralscape/git-lockbox.git"
+  },
+  "homepage": "https://github.com/stralscape/git-lockbox#readme",
+  "bugs": {
+    "url": "https://github.com/stralscape/git-lockbox/issues"
+  },
+  "bin": {
+    "git-lockbox": "bin/git-lockbox.js"
+  },
+  "engines": {
+    "node": ">=17.0.0"
+  },
+  "files": [
+    "bin",
+    "src",
+    "README.md"
+  ]
+}

@@ -1,0 +1,10 @@
+# Dependencies
+node_modules/
+
+# Build & package artifacts
+*.tgz
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
